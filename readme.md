@@ -5,7 +5,7 @@ While listening to [Atomic Habits](https://jamesclear.com/atomic-habits), I deci
 
 ## Release Log
 
-### [Week 1](willwillis/app-a-week/tree/main/week1) - print-saturdays.pl
+### Week 1 `print-saturdays.pl`
 - 2023-06-03 A small script to generate the markdown required for this page. 
   - Language: [Perl](https://www.perl.org/)
   - Modules: [DateTime](https://metacpan.org/pod/DateTime)
