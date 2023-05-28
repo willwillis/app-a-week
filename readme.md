@@ -6,7 +6,9 @@ While listening to [Atomic Habits](https://jamesclear.com/atomic-habits), I deci
 ## Release Log
 
 ### Week 1 - print-saturdays.pl
-- 2023-06-03 A [Perl](https://www.perl.org/) script that generated the markdown for the weeks and deadlines on this page. Modules: [DateTime](https://metacpan.org/pod/DateTime)
+- 2023-06-03 A small script to generate the markdown required for this page. 
+  - Language: [Perl](https://www.perl.org/)
+  - Modules: [DateTime](https://metacpan.org/pod/DateTime)
 
 ### Week 2
 - 2023-06-10
