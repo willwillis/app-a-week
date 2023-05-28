@@ -1,7 +1,7 @@
 # (One) Application A Week
 
 ## Objective
-While listening to atomic habits, I decided to start a system for keeping my development skills sharp(er).
+While listening to atomic habits, I decided to start a system of writing and publishing small scripts/apps on a weekly basis in an attempt to keep my development skills sharp(er).
 
 ## Release Log
 
