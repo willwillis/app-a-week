@@ -1,13 +1,12 @@
 # (One) Application A Week
 
 ## Objective
-While listening to atomic habits, I decided to start a system for keeping my development skills sharp.
-Secondarily, my work github activity heat map looks great, while my personal gh account doesn't. I'm hoping this exercise improves those optics.
+While listening to atomic habits, I decided to start a system for keeping my development skills sharp(er).
 
 ## Release Log
 
-### Week 1
-- 2023-06-03 Perl script to generate the weeks and deadlines on this page.
+### Week 1 - print-saturdays.pl
+- 2023-06-03 A [Perl](https://www.perl.org/) script that generated the markdown for the weeks and deadlines on this page. Modules: [DateTime](https://metacpan.org/pod/DateTime)
 
 ### Week 2
 - 2023-06-10
